@@ -33,3 +33,5 @@ This revolutionary approach aims to:
 * The unique and personalized nature of the AI-driven rehabilitation plan.
 * The gamified system with clear goals and rewards linked to positive behavior.
 * The focus on empowerment and taking control of one's future through the rehabilitation journey.
+
+(co-written with Gemini last 3/9/2024)

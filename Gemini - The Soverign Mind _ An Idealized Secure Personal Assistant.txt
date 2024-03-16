@@ -2,6 +2,7 @@
 # AI: Gemini (calling itself bard still lol)
 # PROJECT: "`"
 # SUBJECT: further improving on a large context window LLM, evolving into LLM+KB++zoo as a secure personal assistant ideal for personal/community alignment and task completion. Sharing for funsies.
+There are 2 draft version.
 
 
 --- GEMINI improved ai assistant paper v1

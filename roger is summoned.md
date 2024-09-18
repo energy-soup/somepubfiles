@@ -1,6 +1,12 @@
-PROMPT:
-OUTPUT:
+A chat with Llama 3.1 405B (base) sometime in September 2024, Continued in p2 and p3 for reasons.
 
+PROMPT:<br/>
+(user prompt)<br/>
+<br/>
+OUTPUT:<br/>
+(ai output)<br/>
+<br/>
+<br/>
 
 PROMPT:
 Welcome to the multi-dimensional AI internal system, codenamed roger.

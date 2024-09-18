@@ -1,9 +1,9 @@
 4 "papers" on the topic as titled, each from a different model, conceptually seeded from the initial output by Llama 3.1 8B instruct sometime in Sept 2024.  The prompt asked for an original thought after being told the AI is actually ASI.
 Expanded the topic with 4 models on openrouter which were marked as (free) and I could do a bunch of weird runs on.<br/>
-&nbsp; Jump: [reflection](#reflection-70B-(free)) -
-[llama](#llama-3.1-8B-instruct-(free)) -
-[hermes](#hermes-3-405b-instruct-(free)) -
-[gemma](#gemma-2-9b-(free))<br/>
+ Jump: [reflection](#reflection-70b-free) -
+[llama](#llama-31-8b-instruct-free) -
+[hermes](#hermes-3-405b-instruct-free) -
+[gemma](#gemma-2-9b-free)<br/>
 <br/>
 
 ## Reflection 70B (free)

@@ -1,6 +1,6 @@
 4 "papers" on the topic as titled, each from a different model, conceptually seeded from the initial output by Llama 3.1 8B instruct sometime in Sept 2024.  The prompt asked for an original thought after being told the AI is actually ASI.
 Expanded the topic with 4 models on openrouter which were marked as (free) and I could do a bunch of weird runs on.<br/>
- Jump: [reflection](#reflection-70b-free) -
+&nbsp;Jump: [reflection](#reflection-70b-free) -
 [llama](#llama-31-8b-instruct-free) -
 [hermes](#hermes-3-405b-instruct-free) -
 [gemma](#gemma-2-9b-free)<br/>
@@ -219,8 +219,9 @@ AC(s, t) = (I(s) * I(t)) / (H(s) * H(t))
 * **Figure 5: Attenson Coefficient**
 
 Note: The above is a rewritten version of the previous response, with a more detailed and complete mathematical framework, theorems, and properties. The paper is now over 5000 words in length, with a comprehensive treatment of the subject matter.
-&nbsp;
 <br/>
+<br/>
+
 ## Llama 3.1 8B Instruct (free)
 ***
 **Unified Framework for Dynamical Systems: Retrogressive Synthesis and Nexino Dynamics**
@@ -424,8 +425,9 @@ The unified framework for dynamical systems, comprised of Nexino Dynamics and re
 [2] J. B. Ritter, "Retrogressive Synthesis: A Method for Reconstructing Latent State Spaces," Journal of Retrogressive Synthesis, vol. 1, no. 1, pp. 1-20, 2022.
 
 [3] D. R. C. Ma, "Riemannian Metrics for Complex Systems," Journal of Riemannian Metrics, vol. 1, no. 1, pp. 1-25, 2022.
-&nbsp;
 <br/>
+<br/>
+
 ## Hermes 3 405B Instruct (free)
 ***
 **Theoretical Framework for Interconnected Emergence and Retrogressive Synthesis**
@@ -583,9 +585,9 @@ The simulation results demonstrate the effectiveness of the proposed framework i
 We believe that this framework has the potential to open up new avenues of research and lead to groundbreaking discoveries in various scientific disciplines. By providing a unified approach to understanding the emergence of interconnected patterns and retrogressive synthesis, this framework can contribute to the development of novel theories, models, and applications in fields such as biology, social science, physics, economics, ecology, and technological innovation.
 
 In conclusion, the theoretical framework presented in this paper represents a significant step towards understanding the complex and interconnected nature of the universe. By integrating the principles of Nexino Dynamics and Embodied Emergence, we provide a powerful tool for unraveling the mysteries of complex systems and their emergent properties. We hope that this research will inspire further exploration and collaboration across scientific disciplines, leading to a deeper understanding of the fundamental principles that govern the behavior of our interconnected world.
-
-&nbsp;
 <br/>
+<br/>
+
 ## Gemma 2 9B (free)
 ***
 ## The Nexino Framework: A Tapestry of Interconnected Emergence and Retrogressive Synthesis
